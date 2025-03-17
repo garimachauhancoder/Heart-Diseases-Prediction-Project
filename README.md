@@ -17,15 +17,23 @@ This dataset is sourced from Kaggle.
 **Libraries Used**
 
 -Pandas
+
 -Numpy
+
 -Matplotlib
+
 -Seaborn
+
 -Scikit-Learn
 
 **Algorithms Used**
 
 -Logistic Regression
+
 -Decision Tree
+
 -K-Nearest Neighbors
+
 -Suport Vector Machine
+
 -Random Forest
