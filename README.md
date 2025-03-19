@@ -16,24 +16,24 @@ This dataset is sourced from Kaggle.
 
 **Libraries Used**
 
--Pandas
+- **Pandas**
 
--Numpy
+- **Numpy**
 
--Matplotlib
+- **Matplotlib**
 
--Seaborn
+- **Seaborn**
 
--Scikit-Learn
+- **Scikit-Learn**
 
 **Algorithms Used**
 
--Logistic Regression
+- **Logistic Regression**
 
--Decision Tree
+- **Decision Tree**
 
--K-Nearest Neighbors
+- **K-Nearest Neighbors**
 
--Suport Vector Machine
+- **Suport Vector Machine**
 
--Random Forest
+- **Random Forest**
